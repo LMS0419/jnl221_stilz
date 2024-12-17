@@ -12,6 +12,16 @@
   font-size: 20px;
   text-align: center;
 }
+
+p {
+  line-height: 2.0;
+}
+
+p {
+  text-align: justify; /* Align text with even spacing on both sides */
+  text-align: center;  /* Centers text */
+}
+
 .header {
 	height: auto;
 	font-weight: bold;
