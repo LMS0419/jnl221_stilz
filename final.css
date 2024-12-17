@@ -11,15 +11,8 @@
   font-family: 'Times New Roman', serif;
   font-size: 20px;
   text-align: center;
-}
-
-p {
-  line-height: 2.0;
-}
-
-p {
-  text-align: justify; /* Align text with even spacing on both sides */
-  text-align: center;  /* Centers text */
+ line-height: 2.0;
+text-align: justify;
 }
 
 .header {
